@@ -5,7 +5,7 @@
     
     <title>super heroes</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../cristian/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
   </head>
 
@@ -17,9 +17,9 @@
 
       <section>
         
-        <img src="../cristian/goku.png" class="goku" alt="">
-        <img src="../cristian/Vegeta.png" class="vegeta" alt="">
-        <img src="../cristian/Gohan.png " class="gohan" alt="">
+        <img src="goku.png" class="goku" alt="">
+        <img src="Vegeta.png" class="vegeta" alt="">
+        <img src="Gohan.png " class="gohan" alt="">
 
       </section>
 
@@ -27,7 +27,7 @@
 
     async function populate() {
 
-      const requestURL = '../cristian/miarchivo.json';
+      const requestURL = 'miarchivo.json';
       const request = new Request(requestURL);
 
       const response = await fetch(request);
