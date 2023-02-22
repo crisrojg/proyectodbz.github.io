@@ -1,0 +1,41 @@
+{
+    "escuadron" : "Super Heroes",
+    "ciudad" : "Bogota",
+    "creado" :2023,
+    "base" : "Super tower",
+    "active" : true,
+    "miembros" : [
+      {
+        "nombre" : "Goku",
+        "edad" : 100,
+        "identidad" : " kakaroto",
+        "poderes" : [
+          "Kame Hame Ha",
+          "Genkidama",
+          "Kaio-Ken"
+        ]
+        
+      },
+      {
+        "nombre" : "Vegeta",
+        "edad" : 200,
+        "identidad" : "Príncipe Vegeta",
+        "poderes" : [
+          "Ataque Big Bang",
+          "Autoexplosión",
+          "Anillos de Poder"
+        ]
+      },
+      {
+        "nombre" : "Gohan",
+        "edad" : 30,
+        "identidad" : "Gohan",
+        "poderes" : [
+          "Kamehameha",
+          "Makankosappo",
+          "Doble Masenko"
+         
+        ]
+      }
+    ]
+  }
