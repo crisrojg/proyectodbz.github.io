@@ -71,6 +71,17 @@ html {
     border-radius: 50px 50% 50% 50%;     
   }
 
+.a{
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
+
+
   .vegeta {
     width: 250px;
     margin-left: 90px;
